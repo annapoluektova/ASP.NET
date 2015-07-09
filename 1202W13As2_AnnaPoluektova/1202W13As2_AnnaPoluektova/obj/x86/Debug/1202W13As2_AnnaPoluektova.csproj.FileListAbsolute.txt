@@ -1,0 +1,9 @@
+c:\users\anna\documents\visual studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\bin\Debug\1202W13As2_AnnaPoluektova.exe
+c:\users\anna\documents\visual studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\bin\Debug\1202W13As2_AnnaPoluektova.pdb
+c:\users\anna\documents\visual studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.exe
+c:\users\anna\documents\visual studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.pdb
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\Visual Studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.exe
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\Visual Studio 2010\Projects\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.pdb
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.exe
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As2_AnnaPoluektova\1202W13As2_AnnaPoluektova\obj\x86\Debug\1202W13As2_AnnaPoluektova.pdb

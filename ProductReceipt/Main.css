@@ -1,0 +1,27 @@
+﻿body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 85%;
+    margin: 0;
+    padding: 0;
+    background-color: #D3D3D3;
+}
+#page 
+{
+    width: 700px;
+    margin: 0 auto;
+    background-color: White;
+}
+#header
+{
+    margin-bottom: 10px;
+}
+#main
+{
+    padding: 10px;
+    margin-top: 0;
+}
+.error
+{
+    margin-top: 1em;        
+    color: #1C5E55;
+}

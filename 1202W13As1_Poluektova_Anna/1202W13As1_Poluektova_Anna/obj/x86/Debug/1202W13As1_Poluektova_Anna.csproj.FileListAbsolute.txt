@@ -1,0 +1,14 @@
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.pdb
+M:\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.exe
+M:\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.pdb
+M:\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.exe
+M:\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.pdb
+M:\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.exe
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.pdb
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.exe
+F:\4 semestr\COMP 2075 - Implement.& Using Web Services - Sujeet Lohan\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.pdb
